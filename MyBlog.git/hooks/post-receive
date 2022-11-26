@@ -1,0 +1,2 @@
+git --work-tree=/home/acs/git/MyBlog --git-dir=/home/acs/git/MyBlog.git checkout -f
+
